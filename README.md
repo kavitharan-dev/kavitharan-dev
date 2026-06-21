@@ -39,7 +39,7 @@ const developer = {
   skills      : ["HTML", "CSS", "JavaScript", "React", "Laravel", "PHP"],
   currently   : "Seeking 6-month Industrial Training (2025)",
   available   : true,  // open to IT placement opportunities ✨
-  contact     : "kavitharan0813l@gmail.com",
+  contact     : "kavitharan0813@gmail.com",
 };
 ```
 
