@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated glitch name -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&width=800&height=90&lines=kavitharan-dev;Frontend+Developer;HND+Software+Eng." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&width=800&height=90&lines=kavitharan-dev;Frontend+Developer;HND+Information+tech." alt="Typing SVG" />
 
 <!-- Animated subtitle roles -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=600&color=F0A500&center=true&vCenter=true&multiline=false&width=700&height=40&lines=Frontend+Developer+%F0%9F%92%BB;HND+Software+Engineering+%F0%9F%8E%93;React+%26+Laravel+Builder+%E2%9A%9B%EF%B8%8F;Seeking+Industrial+Training+%F0%9F%9A%80;Open+to+opportunities+%F0%9F%87%B1%F0%9F%87%B0" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=600&color=F0A500&center=true&vCenter=true&multiline=false&width=700&height=40&lines=Frontend+Developer+%F0%9F%92%BB;HND++Information+Technolgy+%F0%9F%8E%93;React+%26+Laravel+Builder+%E2%9A%9B%EF%B8%8F;Seeking+Industrial+Training+%F0%9F%9A%80;Open+to+opportunities+%F0%9F%87%B1%F0%9F%87%B0" alt="Roles" />
 
 <br/>
 
