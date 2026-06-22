@@ -36,15 +36,20 @@
 
 ```js
 const kavitharan = {
-  name      : "Kavitharan",
-  location  : "Sri Lanka 🇱🇰",
-  education : "HND Software Engineering — Final Semester",
-  institute : "Your Institute Name",
-  role      : ["Frontend Developer", "UI/UX Enthusiast"],
-  skills    : ["HTML", "CSS", "JavaScript", "React", "Laravel", "PHP"],
-  looking   : "6-month Industrial Training 2025 🚀",
-  open      : true,  // hire me ✨
-  contact   : "youremail@gmail.com",
+  name: "Kavitharan",
+  location: "Sri Lanka 🇱🇰",
+  education: "HND IT (Final Semester)",
+  institute: "ATI-Trincomalee",
+  role: ["Frontend Developer", "Web Developer"],
+  skills: ["HTML", "CSS", "JavaScript", "PHP", "Laravel", "MySQL"],
+  projects: [
+    "Library Management System",
+    "Career Guidence System",
+    
+  ],
+  looking: "Industrial Training / Internship Opportunity",
+  openToWork: true,
+  contact: "kavitharan0813@gmail.com",
 };
 ```
 
