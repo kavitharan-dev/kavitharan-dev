@@ -19,7 +19,7 @@
 
 <!-- Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-kavitharan--dev-e74c3c?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/kavitharan-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&labelColor=0d1117)](https://linkedin.com/in/kavitharan-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-www.linkedin.com/in/kavitharan1023-0077B5?style=for-the-badge&logo=linkedin&labelColor=0d1117)](https://linkedin.com/in/kavitharan-dev)
 [![Email](https://img.shields.io/badge/📧_EMAIL-kavitharan0813@gmail.com-f0a500?style=for-the-badge&labelColor=0d1117)](mailto:kavitharan0813@gmail.com)
 
 <br/>
