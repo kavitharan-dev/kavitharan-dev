@@ -18,6 +18,7 @@
 <br/>
 
 <!-- Badges -->
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-kavitharan--portfolio.vercel.app-2ECC71?style=for-the-badge&labelColor=0d1117)](https://kavitharan-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-kavitharan--dev-e74c3c?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/kavitharan-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kavitharan1023-0077B5?style=for-the-badge&logo=linkedin&labelColor=0d1117)](https://www.linkedin.com/in/kavitharan1023)
 [![Email](https://img.shields.io/badge/📧_EMAIL-kavitharan0813@gmail.com-f0a500?style=for-the-badge&labelColor=0d1117)](mailto:kavitharan0813@gmail.com)
@@ -40,6 +41,7 @@ const kavitharan = {
   education: "HND IT (Final Semester)",
   institute: "ATI - Trincomalee",
   role: ["Full Stack Developer", "Web Developer"],
+  portfolio: "https://kavitharan-portfolio.vercel.app/",
   skills: ["HTML", "CSS", "JavaScript", "React", "PHP", "Laravel", "MySQL", "Git"],
   projects: [
     "Arivexa - Career Guidance System",
@@ -121,6 +123,10 @@ const kavitharan = {
 ### 🚀 Seeking Software Engineering Internship — Sri Lanka 2026
 
 *Let's build something great together!*
+
+<br/>
+
+[![View Portfolio](https://img.shields.io/badge/🌐_VIEW_MY_PORTFOLIO-kavitharan--portfolio.vercel.app-2ECC71?style=for-the-badge&labelColor=0d1117)](https://kavitharan-portfolio.vercel.app/)
 
 <br/>
 
