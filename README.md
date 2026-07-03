@@ -87,7 +87,7 @@ const kavitharan = {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=kavitharan-dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e74c3c&icon_color=f0a500&text_color=ffffff&ring_color=e74c3c" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kavitharan-dev&theme=radical&hide_border=true&background=0d1117&ring=e74c3c&fire=f0a500&currStreakLabel=ffffff&sideLabels=ffffff" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=kavitharan-dev&theme=radical&hide_border=true&background=0d1117&ring=e74c3c&fire=f0a500&currStreakLabel=ffffff&sideLabels=ffffff" width="48%" />
 
 <br/><br/>
 
