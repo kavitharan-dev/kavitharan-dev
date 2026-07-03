@@ -39,8 +39,8 @@ const kavitharan = {
   location: "Sri Lanka 🇱🇰",
   education: "HND IT (Final Semester)",
   institute: "ATI-Trincomalee",
-  role: ["Frontend Developer", "Web Developer"],
-  skills: ["HTML", "CSS", "JavaScript", "PHP", "Laravel", "MySQL"],
+  role: ["Full stack  Developer", "Web Developer"],
+  skills: ["HTML", "CSS", "JavaScript", "PHP", "Laravel", "MySQL" , "react"],
   projects: [
     "Library Management System",
     "Career Guidence System",
