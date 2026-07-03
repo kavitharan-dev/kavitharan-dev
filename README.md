@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated glitch name -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&width=800&height=90&lines=kavitharan-dev;Full stack +Developer;HND+Information+tech." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&width=800&height=90&lines=kavitharan-dev;Full+Stack+Developer;HND+Information+Tech." alt="Typing SVG" />
 
 <!-- Animated subtitle roles -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=600&color=F0A500&center=true&vCenter=true&multiline=false&width=700&height=40&lines=Full stack +Developer+%F0%9F%92%BB;HND++Information+Technolgy+%F0%9F%8E%93;React+%26+Laravel+Builder+%E2%9A%9B%EF%B8%8F;Seeking+Industrial+Training+%F0%9F%9A%80;Open+to+opportunities+%F0%9F%87%B1%F0%9F%87%B0" alt="Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=600&color=F0A500&center=true&vCenter=true&multiline=false&width=700&height=40&lines=Full+Stack+Developer+%F0%9F%92%BB;HND+Information+Technology+%F0%9F%8E%93;React+%26+Laravel+Builder+%E2%9A%9B%EF%B8%8F;Seeking+Industrial+Training+%F0%9F%9A%80;Open+to+opportunities+%F0%9F%87%B1%F0%9F%87%B0" alt="Roles" />
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 <!-- Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-kavitharan--dev-e74c3c?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/kavitharan-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-www.linkedin.com/in/kavitharan1023-0077B5?style=for-the-badge&logo=linkedin&labelColor=0d1117)](https://linkedin.com/in/kavitharan-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kavitharan1023-0077B5?style=for-the-badge&logo=linkedin&labelColor=0d1117)](https://www.linkedin.com/in/kavitharan1023)
 [![Email](https://img.shields.io/badge/📧_EMAIL-kavitharan0813@gmail.com-f0a500?style=for-the-badge&labelColor=0d1117)](mailto:kavitharan0813@gmail.com)
 
 <br/>
@@ -38,15 +38,18 @@ const kavitharan = {
   name: "Kavitharan",
   location: "Sri Lanka 🇱🇰",
   education: "HND IT (Final Semester)",
-  institute: "ATI-Trincomalee",
-  role: ["Full stack  Developer", "Web Developer"],
-  skills: ["HTML", "CSS", "JavaScript", "PHP", "Laravel", "MySQL" , "react"],
+  institute: "ATI - Trincomalee",
+  role: ["Full Stack Developer", "Web Developer"],
+  skills: ["HTML", "CSS", "JavaScript", "React", "PHP", "Laravel", "MySQL", "Git"],
   projects: [
+    "Arivexa - Career Guidance System",
+    "PLCGS - Personalised Learning & Career Guidance System",
     "Library Management System",
-    "Career Guidence System",
-    
+    "West Collection Website",
+    "Online Perfume Shop",
+    "Freelancer Website",
   ],
-  looking: "Industrial Training / Internship Opportunity",
+  looking: "Software Engineering Internship (Sep 2026)",
   openToWork: true,
   contact: "kavitharan0813@gmail.com",
 };
@@ -106,8 +109,8 @@ const kavitharan = {
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=kavitharan-dev&repo=your-repo-1&theme=radical&hide_border=true&bg_color=0d1117&title_color=e74c3c&text_color=ffffff)](https://github.com/kavitharan-dev/your-repo-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=kavitharan-dev&repo=your-repo-2&theme=radical&hide_border=true&bg_color=0d1117&title_color=e74c3c&text_color=ffffff)](https://github.com/kavitharan-dev/your-repo-2)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=kavitharan-dev&repo=portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=e74c3c&text_color=ffffff)](https://github.com/kavitharan-dev/portfolio)
+[![Arivexa](https://github-readme-stats.vercel.app/api/pin/?username=kavitharan-dev&repo=career-guidence-system&theme=radical&hide_border=true&bg_color=0d1117&title_color=e74c3c&text_color=ffffff)](https://github.com/kavitharan-dev/career-guidence-system)
 
 </div>
 
@@ -115,7 +118,7 @@ const kavitharan = {
 
 <div align="center">
 
-### 🚀 Seeking 6-Month Industrial Training — Sri Lanka 2025
+### 🚀 Seeking Software Engineering Internship — Sri Lanka 2026
 
 *Let's build something great together!*
 
